@@ -1,0 +1,1 @@
+﻿#include <iostream>`nusing namespace std;`nint main() {`n  int x = 42;`n  cout << x << endl;`n  return 0;`n}
