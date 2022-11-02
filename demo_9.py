@@ -1,1 +1,1 @@
-﻿x = 42`ny = x * 2`nprint(y)
+﻿def hello():`n    print("Hello, World!")
