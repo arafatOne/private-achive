@@ -1,0 +1,1 @@
+﻿let x = 42;`nlet y = x * 2;`nconsole.log(y);
