@@ -1,1 +1,1 @@
-﻿def hello():`n    print("Hello, World!")
+﻿x = 42`ny = x * 2`nprint(y)
