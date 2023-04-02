@@ -1,1 +1,1 @@
-﻿items = [1, 2, 3, 4, 5]`nprint(sum(items))
+﻿x = 42`ny = x * 2`nprint(y)
