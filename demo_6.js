@@ -1,1 +1,1 @@
-﻿const sum = arr => arr.reduce((a, b) => a + b, 0);
+﻿let x = 42;`nlet y = x * 2;`nconsole.log(y);
