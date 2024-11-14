@@ -1,1 +1,1 @@
-﻿#include <stdio.h>`nint main() {`n  printf("Hello, World!\n");`n  return 0;`n}
+﻿#include <stdio.h>`nint main() {`n  int x = 42, y = x * 2;`n  printf("%d\n", y);`n  return 0;`n}
