@@ -1,1 +1,1 @@
-﻿function hello() {`n  console.log("Hello, World!");`n}
+﻿let x = 42;`nlet y = x * 2;`nconsole.log(y);
