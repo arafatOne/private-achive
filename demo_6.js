@@ -1,1 +1,1 @@
-﻿function hello() {`n  console.log("Hello, World!");`n}
+﻿const sum = arr => arr.reduce((a, b) => a + b, 0);
