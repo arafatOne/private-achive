@@ -1,1 +1,1 @@
-﻿#include <iostream>`nusing namespace std;`nint main() {`n  cout << "Hello, World!" << endl;`n  return 0;`n}
+﻿#include <iostream>`nusing namespace std;`nint main() {`n  int x = 42;`n  cout << x << endl;`n  return 0;`n}
