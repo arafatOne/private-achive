@@ -1,1 +1,1 @@
-﻿items = [1, 2, 3, 4, 5]`nprint(sum(items))
+﻿def hello():`n    print("Hello, World!")
