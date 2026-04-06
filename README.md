@@ -1,1 +1,1 @@
-# private achived
+# private achive
